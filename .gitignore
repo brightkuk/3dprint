@@ -1,7 +1,8 @@
-node_modules/
+node_modules
+core.*
+.DS_Store
 .env
-.terraform/
+**/.terraform/*
 *.tfstate
-*.tfstate.backup
-crash.log
-*terraform-provider-aws_v6.21.0_x5
+*.tfstate.*
+.terraformrc
