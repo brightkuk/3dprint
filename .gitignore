@@ -1,0 +1,7 @@
+node_modules/
+.env
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*terraform-provider-aws_v6.21.0_x5
